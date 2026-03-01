@@ -1,0 +1,344 @@
+{
+  "compile_memory_path": "skills/.evidence/memory.md",
+  "compiled_package_id": "itensor",
+  "evidence": {
+    "core_skills": [
+      "itensor-simulation-workflows",
+      "itensor-inputs-and-modeling",
+      "itensor-build-and-install",
+      "itensor-sci-skills-generator",
+      "itensor-parallel-hpc",
+      "itensor-readme"
+    ],
+    "evidence_dir": "skills/.evidence",
+    "files": [
+      "skills/.evidence/itensor-simulation-workflows.md",
+      "skills/.evidence/itensor-inputs-and-modeling.md",
+      "skills/.evidence/itensor-build-and-install.md",
+      "skills/.evidence/itensor-sci-skills-generator.md",
+      "skills/.evidence/itensor-parallel-hpc.md",
+      "skills/.evidence/itensor-readme.md"
+    ]
+  },
+  "generation": {
+    "docs_only": false,
+    "generator_script": "sci-skills-generator/scripts/generate_skills_folder.py",
+    "max_skills": 30,
+    "return_code": 0,
+    "status": "ok"
+  },
+  "mode": "compile",
+  "pass_scope_diffs": {
+    "pass_2": {
+      "added": [
+        "skills/.evidence/memory.md",
+        "skills/itensor-advanced-topics/SKILL.md",
+        "skills/itensor-advanced-topics/references/doc_map.md",
+        "skills/itensor-advanced-topics/references/source_map.md"
+      ],
+      "changed": [
+        "skills/.evidence/memory.md",
+        "skills/itensor-advanced-topics/SKILL.md",
+        "skills/itensor-advanced-topics/references/doc_map.md",
+        "skills/itensor-advanced-topics/references/source_map.md",
+        "skills/itensor-analysis-and-output/SKILL.md",
+        "skills/itensor-analysis-and-output/references/doc_map.md",
+        "skills/itensor-analysis-and-output/references/source_map.md",
+        "skills/itensor-api-and-scripting/SKILL.md",
+        "skills/itensor-api-and-scripting/references/doc_map.md",
+        "skills/itensor-api-and-scripting/references/source_map.md",
+        "skills/itensor-build-and-install/SKILL.md",
+        "skills/itensor-build-and-install/references/doc_map.md",
+        "skills/itensor-build-and-install/references/source_map.md",
+        "skills/itensor-checklists/SKILL.md",
+        "skills/itensor-checklists/references/doc_map.md",
+        "skills/itensor-checklists/references/source_map.md",
+        "skills/itensor-index/SKILL.md",
+        "skills/itensor-inputs-and-modeling/SKILL.md",
+        "skills/itensor-inputs-and-modeling/references/doc_map.md",
+        "skills/itensor-inputs-and-modeling/references/source_map.md",
+        "skills/itensor-parallel-hpc/SKILL.md",
+        "skills/itensor-parallel-hpc/references/doc_map.md",
+        "skills/itensor-parallel-hpc/references/source_map.md",
+        "skills/itensor-readme/SKILL.md",
+        "skills/itensor-readme/references/doc_map.md",
+        "skills/itensor-readme/references/source_map.md",
+        "skills/itensor-sci-skills-generator/SKILL.md",
+        "skills/itensor-sci-skills-generator/references/doc_map.md",
+        "skills/itensor-sci-skills-generator/references/source_map.md",
+        "skills/itensor-simulation-workflows/SKILL.md",
+        "skills/itensor-simulation-workflows/references/doc_map.md",
+        "skills/itensor-simulation-workflows/references/source_map.md"
+      ],
+      "deleted": [
+        "skills/itensor-analysis-and-output/SKILL.md",
+        "skills/itensor-analysis-and-output/references/doc_map.md",
+        "skills/itensor-analysis-and-output/references/source_map.md",
+        "skills/itensor-checklists/SKILL.md",
+        "skills/itensor-checklists/references/doc_map.md",
+        "skills/itensor-checklists/references/source_map.md"
+      ],
+      "modified": [
+        "skills/itensor-api-and-scripting/SKILL.md",
+        "skills/itensor-api-and-scripting/references/doc_map.md",
+        "skills/itensor-api-and-scripting/references/source_map.md",
+        "skills/itensor-build-and-install/SKILL.md",
+        "skills/itensor-build-and-install/references/doc_map.md",
+        "skills/itensor-build-and-install/references/source_map.md",
+        "skills/itensor-index/SKILL.md",
+        "skills/itensor-inputs-and-modeling/SKILL.md",
+        "skills/itensor-inputs-and-modeling/references/doc_map.md",
+        "skills/itensor-inputs-and-modeling/references/source_map.md",
+        "skills/itensor-parallel-hpc/SKILL.md",
+        "skills/itensor-parallel-hpc/references/doc_map.md",
+        "skills/itensor-parallel-hpc/references/source_map.md",
+        "skills/itensor-readme/SKILL.md",
+        "skills/itensor-readme/references/doc_map.md",
+        "skills/itensor-readme/references/source_map.md",
+        "skills/itensor-sci-skills-generator/SKILL.md",
+        "skills/itensor-sci-skills-generator/references/doc_map.md",
+        "skills/itensor-sci-skills-generator/references/source_map.md",
+        "skills/itensor-simulation-workflows/SKILL.md",
+        "skills/itensor-simulation-workflows/references/doc_map.md",
+        "skills/itensor-simulation-workflows/references/source_map.md"
+      ]
+    },
+    "pass_3": {
+      "added": [
+        "skills/.compile_report.json"
+      ],
+      "changed": [
+        "skills/.compile_report.json",
+        "skills/.evidence/memory.md",
+        "skills/itensor-advanced-topics/references/source_map.md",
+        "skills/itensor-api-and-scripting/references/source_map.md",
+        "skills/itensor-build-and-install/SKILL.md",
+        "skills/itensor-build-and-install/references/source_map.md",
+        "skills/itensor-index/SKILL.md",
+        "skills/itensor-inputs-and-modeling/references/source_map.md",
+        "skills/itensor-parallel-hpc/references/source_map.md",
+        "skills/itensor-readme/references/source_map.md",
+        "skills/itensor-sci-skills-generator/SKILL.md",
+        "skills/itensor-sci-skills-generator/references/doc_map.md",
+        "skills/itensor-sci-skills-generator/references/source_map.md",
+        "skills/itensor-simulation-workflows/references/source_map.md"
+      ],
+      "deleted": [],
+      "modified": [
+        "skills/.evidence/memory.md",
+        "skills/itensor-advanced-topics/references/source_map.md",
+        "skills/itensor-api-and-scripting/references/source_map.md",
+        "skills/itensor-build-and-install/SKILL.md",
+        "skills/itensor-build-and-install/references/source_map.md",
+        "skills/itensor-index/SKILL.md",
+        "skills/itensor-inputs-and-modeling/references/source_map.md",
+        "skills/itensor-parallel-hpc/references/source_map.md",
+        "skills/itensor-readme/references/source_map.md",
+        "skills/itensor-sci-skills-generator/SKILL.md",
+        "skills/itensor-sci-skills-generator/references/doc_map.md",
+        "skills/itensor-sci-skills-generator/references/source_map.md",
+        "skills/itensor-simulation-workflows/references/source_map.md"
+      ]
+    }
+  },
+  "passes": [
+    {
+      "pass": 1,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 2,
+      "return_code": 0,
+      "status": "ok"
+    },
+    {
+      "pass": 3,
+      "return_code": 0,
+      "status": "ok"
+    }
+  ],
+  "profile": {
+    "docs_dirs": [
+      "."
+    ],
+    "docs_only": false,
+    "notes": [
+      "Primary user-facing docs are root-level files (README.md, INSTALL.md).",
+      "Tutorials/examples are code-first under tutorial/ and sample/ with some extensionless docs.",
+      "Explicit source/test dirs are set because default discovery names may miss itensor/ and unittest/.",
+      "Using docs_dirs='.' can include non-package compile tooling docs (sci-skills-generator/, skills/); filter in pass 2 if needed."
+    ],
+    "package_name": "itensor",
+    "profile_path": "skills/.compile_profile.json",
+    "profile_source": "file",
+    "source_dirs": [
+      "itensor",
+      "tools"
+    ],
+    "test_dirs": [
+      "unittest"
+    ],
+    "tutorial_dirs": [
+      "tutorial",
+      "sample"
+    ],
+    "warnings": []
+  },
+  "project_root": "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor",
+  "run_id": "compile_20260301T045902837316Z",
+  "skill_plan": {
+    "available_skill_ids": [
+      "itensor-analysis-and-output",
+      "itensor-api-and-scripting",
+      "itensor-build-and-install",
+      "itensor-checklists",
+      "itensor-index",
+      "itensor-inputs-and-modeling",
+      "itensor-parallel-hpc",
+      "itensor-readme",
+      "itensor-sci-skills-generator",
+      "itensor-simulation-workflows"
+    ],
+    "core_skill_ids": [
+      "itensor-simulation-workflows",
+      "itensor-inputs-and-modeling",
+      "itensor-build-and-install",
+      "itensor-sci-skills-generator",
+      "itensor-parallel-hpc",
+      "itensor-readme"
+    ],
+    "deferred_gaps": [
+      "No dedicated docs/ directory; documentation is sparse and split between root markdown and code examples.",
+      "Extensionless docs (for example sample/README, tutorial/*/INSTRUCTIONS) may need parser enhancement for fuller auto-grouping.",
+      "docs_dirs='.' currently pulls in compile tooling docs (sci-skills-generator/, skills/) unless filtered during generation."
+    ],
+    "goal": "Generate deterministic, docs-first ITensor skills and enrich highest-impact workflows in passes 2/3.",
+    "mode": "compile",
+    "priority_skills": [
+      {
+        "action": "refresh",
+        "must_cover": [
+          "docs-first routing order",
+          "when to escalate from docs to source",
+          "map tutorial/sample/test roots for quick navigation"
+        ],
+        "reason": "Top-level routing must correctly direct users to build, tutorial, API, and algorithm workflows.",
+        "skill_id": "itensor-index",
+        "source_hints": [
+          "README.md",
+          "INSTALL.md",
+          "tutorial",
+          "sample",
+          "unittest"
+        ]
+      },
+      {
+        "action": "create",
+        "must_cover": [
+          "options.mk setup and compiler flags",
+          "library build + sample build commands",
+          "linking external projects via project_template"
+        ],
+        "reason": "Build setup is the most common failure point and is well-defined by installation docs and Makefiles.",
+        "skill_id": "itensor-build-and-install",
+        "source_hints": [
+          "INSTALL.md",
+          "options.mk.sample",
+          "Makefile",
+          "tutorial/project_template"
+        ]
+      },
+      {
+        "action": "create",
+        "must_cover": [
+          "stepwise tutorial progression (one-site to DMRG)",
+          "finite-temperature examples",
+          "sample app build/run patterns"
+        ],
+        "reason": "Most practical usage starts from runnable tutorial/sample programs.",
+        "skill_id": "itensor-inputs-and-modeling",
+        "source_hints": [
+          "tutorial/01_one_site",
+          "tutorial/06_DMRG",
+          "tutorial/finiteT",
+          "sample"
+        ]
+      },
+      {
+        "action": "create",
+        "must_cover": [
+          "core tensor/index APIs",
+          "decomposition and contraction entry points",
+          "utility/error/config surfaces"
+        ],
+        "reason": "Core API navigation is essential for answering implementation-level tensor questions.",
+        "skill_id": "itensor-api-and-scripting",
+        "source_hints": [
+          "itensor/itensor.h",
+          "itensor/index.h",
+          "itensor/decomp.h",
+          "itensor/tensor",
+          "itensor/util"
+        ]
+      },
+      {
+        "action": "create",
+        "must_cover": [
+          "MPS/MPO construction patterns",
+          "DMRG workflow and common tunables",
+          "validation checkpoints using tests/examples"
+        ],
+        "reason": "MPS/DMRG workflows are central scientific usage and require combined docs+source coverage.",
+        "skill_id": "itensor-simulation-workflows",
+        "source_hints": [
+          "itensor/mps",
+          "tutorial/04_mps",
+          "tutorial/06_DMRG",
+          "sample/dmrg.cc",
+          "unittest/mps_test.cc"
+        ]
+      }
+    ],
+    "version": 1,
+    "warnings": []
+  },
+  "skill_plan_path": "skills/.evidence/skill_plan.json",
+  "validation": {
+    "core_skills_checked": [
+      "itensor-simulation-workflows",
+      "itensor-inputs-and-modeling",
+      "itensor-api-and-scripting",
+      "itensor-build-and-install",
+      "itensor-parallel-hpc",
+      "itensor-sci-skills-generator"
+    ],
+    "docs_only": false,
+    "errors": [
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor/skills/itensor-simulation-workflows/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor/skills/itensor-inputs-and-modeling/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor/skills/itensor-api-and-scripting/SKILL.md: missing `## High-Signal Playbook` section.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor/skills/itensor-build-and-install/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor/skills/itensor-parallel-hpc/SKILL.md: playbook missing required element containing 'convergence/validation'.",
+      "/mnt/home/taoeli/fermilink_repos/.fermilink-auto-compile/itensor-itensor/skills/itensor-sci-skills-generator/SKILL.md: playbook missing required element containing 'convergence/validation'."
+    ],
+    "index_skills": [
+      "itensor-index"
+    ],
+    "missing_planned_skills": [],
+    "ok": false,
+    "planned_skill_ids": [
+      "itensor-index",
+      "itensor-build-and-install",
+      "itensor-inputs-and-modeling",
+      "itensor-api-and-scripting",
+      "itensor-simulation-workflows"
+    ],
+    "previous_source_inventory": {},
+    "skills_total": 9,
+    "source_inventory": {},
+    "source_links_total": 71,
+    "topic_skills": 8,
+    "warnings": []
+  }
+}
